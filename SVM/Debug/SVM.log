@@ -1,0 +1,15 @@
+﻿  main.cpp
+c:\users\liuqk\desktop\svm\svm\main.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\liuqk\desktop\svm\svm\svm.h(7): warning C4305: “初始化”: 从“double”到“float”截断
+c:\users\liuqk\desktop\svm\svm\utils.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\liuqk\desktop\svm\svm\utils.h(144): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\liuqk\desktop\svm\svm\utils.h(179): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\liuqk\desktop\svm\svm\main.cpp(27): warning C4305: “参数”: 从“double”到“float”截断
+c:\users\liuqk\desktop\svm\svm\main.cpp(49): warning C4018: “<”: 有符号/无符号不匹配
+  svm.cpp
+c:\users\liuqk\desktop\svm\svm\svm.h(7): warning C4305: “初始化”: 从“double”到“float”截断
+c:\users\liuqk\desktop\svm\svm\svm.cpp(91): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\liuqk\desktop\svm\svm\svm.cpp(169): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\liuqk\desktop\svm\svm\svm.cpp(183): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码...
+  SVM.vcxproj -> C:\Users\liuqk\Desktop\SVM\Debug\SVM.exe
